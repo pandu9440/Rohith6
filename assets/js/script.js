@@ -71,7 +71,7 @@ document.addEventListener('visibilitychange',
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["VLSI Design", "Digital Electronics", "MicroController MicroProcesser", "VLSI Design" , "Digital Electronics" , "MicroController MicroProcesser"],
+    strings: ["VLSI Design", "Digital Electronics", "Design Verification", "VLSI Design" , "Digital Electronics" , "Design Verification"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
